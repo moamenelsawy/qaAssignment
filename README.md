@@ -30,6 +30,7 @@ npx playwrite test --trace on
 
 The current configs are allowing 6 parallel workers to run on 2 browsers. 3 retries for failure with screenshots and videos
 
+##Reports
 A detailed http report will be displayed after each run
 test-results folder contains all the screenshots and videos from previous runs.
 Footer
