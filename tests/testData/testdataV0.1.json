@@ -1,0 +1,17 @@
+{
+    "baseURL": "http://127.0.0.1:5500/",
+    "questBody": "To be or not to be this is the question!? like really this is the question.",
+    "answerBody": "So? Did you get a satisfying answer?",
+    "initalQuestbody": "How to add a question?",
+    "initalAnswerBody": "Just use the form below!",
+    "totalQuestionsCount": "2",
+    "pageTitleText": "The awesome Q/A tool",
+    "header1Text": "Created questions",
+    "header2Text": "Create a new question",
+    "initialSidebarText": "Here you can find 1 question. Feel free to create your own questions!",
+    "tooltip1Txt": "Here you can find the created questions and their answers.",
+    "tooltip2Txt": "Here you can create new questions and their answers.",
+    "extraQ1": "Alright Would this be very significant question starts with an A?",
+    "extraQ2": "Can you guess which place I should be in the list?",
+    "noQestionsSideBarTxt" : "Here you can find no questions. Feel free to create your own questions!"
+}
