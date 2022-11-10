@@ -32,3 +32,4 @@ The current configs are allowing 6 parallel workers to run on 2 browsers. 3 retr
 
 A detailed http report will be displayed after each run
 test-results folder contains all the screenshots and videos from previous runs.
+Footer
